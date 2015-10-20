@@ -1,0 +1,15 @@
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bin\Debug\ReverseMap\resources.pri
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bin\Debug\AppxManifest.xml
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bin\Debug\Calcolatrice_Evento_Azure.Windows.build.appxrecipe
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\priconfig.xml
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\layout.resfiles
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\resources.resfiles
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\pri.resfiles
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\qualifiers.txt
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\leo\documents\visual studio 2013\Projects\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure\Calcolatrice_Evento_Azure.Windows\bld\Debug\ProjectArchitectures.txt

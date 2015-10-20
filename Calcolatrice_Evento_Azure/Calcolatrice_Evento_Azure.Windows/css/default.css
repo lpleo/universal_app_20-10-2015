@@ -1,0 +1,25 @@
+﻿body {
+    
+}
+
+button {
+    width:25%;
+    font-size: 4.5em;
+    background-color:white;
+    border-color:white;
+}
+
+input[type="text"] {
+  font-size: 3.5em;
+  width: 100%;
+}
+
+#titoli {
+    margin: 0em auto;
+    width:80%;
+}
+
+#areaNumeri {
+    margin: 0em auto;
+    width: 80%;
+}
